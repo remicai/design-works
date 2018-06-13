@@ -633,6 +633,12 @@ h5, h6          { font-weight: bolder }
         .img{
         max-width:100%;
     }
+    
+        
+	.logo img{
+		max-width: 40%;
+	}
+
 
     .content h2{
     margin-left: 0px;
